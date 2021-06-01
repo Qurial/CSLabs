@@ -1,0 +1,14 @@
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\bin\Debug\netcoreapp3.1\CSLab42.exe
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\bin\Debug\netcoreapp3.1\CSLab42.deps.json
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\bin\Debug\netcoreapp3.1\CSLab42.runtimeconfig.json
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\bin\Debug\netcoreapp3.1\CSLab42.runtimeconfig.dev.json
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\bin\Debug\netcoreapp3.1\CSLab42.dll
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\bin\Debug\netcoreapp3.1\CSLab42.pdb
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.csprojAssemblyReference.cache
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.AssemblyInfoInputs.cache
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.AssemblyInfo.cs
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.csproj.CoreCompileInputs.cache
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.dll
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.pdb
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.genruntimeconfig.cache
+C:\Users\RedmiBook\source\repos\CSLabs\CSLab4\CSLab42\CSLab42\obj\Debug\netcoreapp3.1\CSLab42.csproj.CopyComplete
